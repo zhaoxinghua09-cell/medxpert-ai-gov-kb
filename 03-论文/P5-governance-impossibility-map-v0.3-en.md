@@ -1,6 +1,6 @@
 ---
 title: "The Governance Impossibility Map: Five Impossibility Domains in AI Governance and Where the Possibility Domain Begins (Working Paper v0.3, EN)"
-summary: "> SynomosAI Governance Line · Paper Matrix P5 · English working draft (D6), 2026-09-08"
+summary: "Between 2025 and 2026, AI governance witnessed a dense cluster of impossibility results: the information-theoretic limits of explainability (Rao 2025)"
 domain: "AI治理/A³法则/AI造AI方法论"
 source: "github:zhaoxinghua09-cell/medxpert-ai-gov-kb"
 version: "1.0"

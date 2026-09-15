@@ -1,6 +1,6 @@
 ---
 title: "治理判定论 · 理论纲要（v1.2 工作稿）"
-summary: "> **the Doctrine of Governance Determinability** — Working Paper v1.2"
+summary: "**一句话**：AI 治理框架的效力瓶颈不在原则层，而在判定层——监管判据若不能被形式化到企业与监管者可以**一致判定**的程度，治理就只能产出声明，不能产出执行。"
 domain: "AI治理/A³法则/AI造AI方法论"
 source: "github:zhaoxinghua09-cell/medxpert-ai-gov-kb"
 version: "1.0"

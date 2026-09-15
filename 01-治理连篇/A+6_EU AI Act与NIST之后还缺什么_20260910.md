@@ -1,6 +1,6 @@
 ---
 title: "A+6 · EU AI Act / NIST RMF 之后，AI 治理还缺什么"
-summary: "> 系列：AI 治理·优势扩容（A+）｜第 6 篇"
+summary: "盘点一下现有的 AI 治理资产："
 domain: "AI治理/A³法则/AI造AI方法论"
 source: "github:zhaoxinghua09-cell/medxpert-ai-gov-kb"
 version: "1.0"

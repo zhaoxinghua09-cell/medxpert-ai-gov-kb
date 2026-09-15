@@ -1,6 +1,6 @@
 ---
 title: "17 · P2 批判型短文（K3 · 中英双版）"
-summary: "> 版本 v1.1 · 2026-09-08 · 四篇一组的第 2 篇（批判型姿势）"
+summary: "**SynomosAI 治理线**"
 domain: "AI治理/A³法则/AI造AI方法论"
 source: "github:zhaoxinghua09-cell/medxpert-ai-gov-kb"
 version: "1.0"

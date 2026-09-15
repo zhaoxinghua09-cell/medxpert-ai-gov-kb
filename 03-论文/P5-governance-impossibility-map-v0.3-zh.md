@@ -1,6 +1,6 @@
 ---
 title: "治理不可能域地图（工作稿 v0.3）"
-summary: "> **the Governance Impossibility Map** — Working Paper v0.3"
+summary: "2025–2026 年，AI 治理领域密集出现一批不可能性结果：可解释性的信息论边界（Rao 2025）、行为式治理的计算理论边界（McCann 2026）、集体问责的公理化边界（Tibebu & Shemtaga 2026）、事前授权的可观测性边界（Meyman 2026；Fernandez 20"
 domain: "AI治理/A³法则/AI造AI方法论"
 source: "github:zhaoxinghua09-cell/medxpert-ai-gov-kb"
 version: "1.0"

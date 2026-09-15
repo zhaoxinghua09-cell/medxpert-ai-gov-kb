@@ -1,6 +1,6 @@
 ---
 title: "B2 · 应答稿 ×2：谁来治理 agent skills？"
-summary: "> 生成：2026-09-12 ｜ 线别：曝光度与竞争力提升线 · Wave 2 · **B2**"
+summary: "A recent wave of discussion asks an uncomfortable question: *agent skills spread faster than anyone can review them — **who governs them?***"
 domain: "AI治理/A³法则/AI造AI方法论"
 source: "github:zhaoxinghua09-cell/medxpert-ai-gov-kb"
 version: "1.0"
