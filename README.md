@@ -6,7 +6,7 @@
 ## 许可说明 · License Notice
 
 - **权利状态**：本仓库**保留所有权利（All Rights Reserved）+ 署名引用**（见 [LICENSE](LICENSE) 与 [NOTICE](NOTICE.md)）。
-- **引用建议**：引用时请标注仓库名与原文链接，权利人「赵兴华 / Steven Zhao · China」。
+- **引用建议**：引用时请标注仓库名与原文链接，权利人：© 2026 赵兴华 / Steven Zhao (ORCID 0009-0001-0512-1237). All rights reserved.
 - **品牌状态限定**：MedXpert、SynomosAI、LGD 等为相关项目标识，**均未申请实体注册、未申请商标注册**；出现仅作来源标识，不构成对法人实体或商标权的任何主张。
 - **联系**：zhaoxinghua06@126.com ｜ ORCID 0009-0001-0512-1237
 
@@ -38,6 +38,6 @@ A³ 法则：AI 造 / AI 改 AI 的放行判定（intent / impact / reversibilit
 
 - **保留所有权利（All Rights Reserved）+ 署名引用**：详见 [LICENSE](LICENSE) 与 [NOTICE.md](NOTICE.md)。
 
-© 2026 赵兴华 / Steven Zhao · China. All rights reserved.
+© 2026 赵兴华 / Steven Zhao (ORCID 0009-0001-0512-1237). All rights reserved.
 理论署名（attribution）：LGD（Lifecycle Governance Doctrine / 全程治理论）— SynomosAI initiative。
 名称状态（name status）："SynomosAI" / "MedXpert" — 未申请实体注册、未申请商标注册。
